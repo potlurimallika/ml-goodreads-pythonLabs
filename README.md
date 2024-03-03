@@ -5,7 +5,7 @@ In this project, we implemented the use of a machine-learning model in order to 
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
 * Modelling
-* 
+  
 Group Members: <a href="https://github.com/teaArchivist">Alexandra CURRAN</a>, <a href="https://github.com/mat-tie">Mathilde ROMAN</a>, <a href="https://github.com/Amiirah09">Amiirah CODABACCUS</a>, <a href="https://github.com/potlurimallika">Srimalika POTLURI</a>, <a href="https://github.com/rgsvm">Selvalakshmi RAMAGOPALAN</a>
 
 ## Dataset
