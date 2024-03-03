@@ -54,13 +54,16 @@ The Random Forest model outperformed all other models, with its predictions bein
 
 ## Software Prerequisites
 * Windows
-* Python 3.10 Environment
+* Anaconda (Python 3.10 environmnet)
 * Jupyter Notebook
 
 ## Software Installation
-* Open Anaconda Prompt
-* Type and execute <code>conda create --name myenv python=3.10</code>
-* Activate the new environment <code>conda activate myenv</code>
-* Type and execute <code>conda install --file requirements.txt</code> to install the required packages.
-* If an error occurs, run <code>conda install pywin32</code> before running the previous line again
-* Open the Jupyter notebook <i>ML_final</i>
+If you wish to manually install the libraries into your environment, the packages required are matplotlib, seaborn, numpy and scikit-learn
+
+To install from the requirements.txt file:
+1. Open Anaconda Prompt
+2. Type and execute <code>conda create --name myenv python=3.10</code>
+3. Activate the new environment <code>conda activate myenv</code>
+4. Type and execute <code>conda install --file requirements.txt</code> to install the required packages.
+5. If a pywin error occurs, run <code>conda install pywin32</code> before running the previous line again
+6. Open the Jupyter notebook <i>ML_final</i>
